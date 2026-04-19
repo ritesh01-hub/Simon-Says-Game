@@ -17,7 +17,8 @@ Press any key to start → watch the color sequence → repeat it by clicking th
 │    [ GREEN ]  [ PURPLE ]    │
 └─────────────────────────────┘
 ```
-
+## Image
+![Simon Says Game]()
 ## 🚀 Features
 
 - 4-color button grid (Red, Yellow, Green, Purple)
